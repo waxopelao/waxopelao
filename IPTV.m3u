@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTİNF:0,-Adultos-
 
+
+
+
 #EXTİNF:-1 group-title="Adultos", Blue hustler
 http://78.37.122.116:8802/hls/CH_C03_BLUEHUSTLER/variant.m3u8
 #EXTİNF:-1 group-title="Adultos", XXL

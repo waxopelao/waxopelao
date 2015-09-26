@@ -1,15 +1,11 @@
 #EXTM3U
 #EXTİNF:0,-Adultos-
 
-
-
-
-
-#EXTİNF:-1 group-title="Adultos", XXL
-http://78.37.122.116:8802/hls/CH_C03_XXL/variant.m3u8
-#EXTİNF:-1 group-title="Adultos", XXX
+#EXTİNF:0 group-title="Adultos", XXL
+http://78.37.122.116:8802/hls/CH_C03_XXL/variant.m3u8?version=2
+#EXTİNF:0 group-title="Adultos", XXX
 http://188.165.220.116:8081/live/56/playlist.m3u8
-#EXTİNF:-1 group-title="Adultos", XXX2
+#EXTİNF:0 group-title="Adultos", XXX2
 http://188.165.220.116:8081/live2/31/playlist.m3u8
 #EXTINF:-1 group-title="Adultos",XXXHD 1 tv
 http://188.165.220.116:8081/live/52/playlist.m3u8
@@ -33,3 +29,12 @@ http://streamer.sibinet.com:8008/udp/239.254.2.232:1234
 http://streamer.sibinet.com:8008/udp/239.254.2.242:1234
 #EXTINF:-1 group-title="Adultos",CandyMan
 http://streamer.sibinet.com:8008/udp/239.254.2.251:1234
+#EXTİNF:-1 group-title="Adultos",Vıp 1 
+http://pro.darking.cloudns.pro:8000/live/urfalikorkmaz/4195y7a8/32.ts
+#EXTİNF:-1 group-title="Adultos",Vıp Channel 2
+http://pro.darking.cloudns.pro:8000/live/urfalikorkmaz/4195y7a8/33.ts
+#EXTİNF:-1 group-title="Adultos",Vıp Channel 3
+http://pro.darking.cloudns.pro:8000/live/urfalikorkmaz/4195y7a8/34.ts
+#EXTİNF:-1 group-title="Adultos",Hustler HD
+http://pro.darking.cloudns.pro:8000/live/urfalikorkmaz/4195y7a8/64.ts
+

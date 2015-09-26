@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTİNF:0,-Adultos-
 
-#EXTİNF:-1 group-title="Adultos",Blue hustler
+#EXTİNF:-1 group-title="Adultos", Blue hustler
 http://78.37.122.116:8802/hls/CH_C03_BLUEHUSTLER/variant.m3u8
-#EXTİNF:-1 group-title="Adultos",XXL
+#EXTİNF:-1 group-title="Adultos", XXL
 http://78.37.122.116:8802/hls/CH_C03_XXL/variant.m3u8
-#EXTİNF:-1 group-title="Adultos",XXX
+#EXTİNF:-1 group-title="Adultos", XXX
 http://188.165.220.116:8081/live/56/playlist.m3u8
-#EXTİNF:-1 group-title="Adultos",XXX2
+#EXTİNF:-1 group-title="Adultos", XXX2
 http://188.165.220.116:8081/live2/31/playlist.m3u8
 #EXTINF:-1 group-title="Adultos",XXXHD 1 tv
 http://188.165.220.116:8081/live/52/playlist.m3u8

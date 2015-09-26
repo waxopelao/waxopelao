@@ -1,16 +1,10 @@
-#EXTINF:0,Hustler Hd
-http://91.213.59.190:8000/239.0.0.199
-#EXTINF:0,Playboy
-http://91.213.59.190:8000/239.0.0.200
 #EXTİNF:0,Blue hustler (18+)
 http://78.37.122.116:8802/hls/CH_C03_BLUEHUSTLER/variant.m3u8?version=2
-#EXTİNF:0,OLALA
-http://188.17.143.39/hls/CH_C06_OLALA/variant.m3u8?version=2
-#EXTİNF:0,RUSNİGHT
-http://78.37.122.116:8802/hls/CH_C01_RUSNIGHT/variant.m3u8?version=2
 #EXTİNF:0,XXL
 http://78.37.122.116:8802/hls/CH_C03_XXL/variant.m3u8?version=2
+#EXTİNF:0,XXX
 http://188.165.220.116:8081/live/56/playlist.m3u8
+#EXTİNF:0,XXX2
 http://188.165.220.116:8081/live2/31/playlist.m3u8
 #EXTINF:0,XXXHD 1 tv
 http://188.165.220.116:8081/live/52/playlist.m3u8
@@ -22,8 +16,6 @@ http://streamer.sibinet.com:8008/udp/239.254.2.37:1234
 http://streamer.sibinet.com:8008/udp/239.254.2.50:1234
 #EXTINF:-1,XXL
 http://streamer.sibinet.com:8008/udp/239.254.2.72:1234
-#EXTINF:-1,Olala
-http://streamer.sibinet.com:8008/udp/239.254.2.90:1234
 #EXTINF:-1,x
 http://streamer.sibinet.com:8008/udp/239.254.2.107:1234
 #EXTINF:-1,Candy TV

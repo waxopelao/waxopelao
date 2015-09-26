@@ -1,37 +1,42 @@
-#EXTINF:-1 group-title="Adultos",XXXHD 1 tv
+#EXTM3U
+#EXTINF:-1,XXXHD 1 tv
 http://188.165.220.116:8081/live/52/playlist.m3u8
-#EXTINF:-1 group-title="Adultos",XXXHD 2 tv
+#EXTINF:-1,XXXHD 2 tv
 http://188.165.220.116:8081/live2/27/playlist.m3u8
-#EXTINF:-1 group-title="Adultos",x
+#EXTINF:-1,x
 http://streamer.sibinet.com:8008/udp/239.254.2.37:1234
-#EXTİNF:-1 group-title="Adultos",XXL
+#EXTİNF:-1,XXL
 http://78.37.122.116:8802/hls/CH_C03_XXL/variant.m3u8?version=2
-#EXTİNF:-1 group-title="Adultos",live
-http://188.165.220.116:8081/live/56/playlist.m3u8
-#EXTİNF:-1 group-title="Adultos",live2
-http://188.165.220.116:8081/live2/31/playlist.m3u8#EXTINF:-1 group-title="Adultos",FrenchLover TV
+EXTINF:-1 group-title="Adultos",FrenchLover TV
 http://streamer.sibinet.com:8008/udp/239.254.2.50:1234
-#EXTINF:-1 group-title="Adultos",XXL
+#EXTINF:-1,XXL
 http://streamer.sibinet.com:8008/udp/239.254.2.72:1234
-#EXTINF:-1 group-title="Adultos",x
+#EXTINF:-1,x
 http://streamer.sibinet.com:8008/udp/239.254.2.107:1234
-#EXTINF:-1 group-title="Adultos",Candy TV
+#EXTINF:-1,Candy TV
 http://streamer.sibinet.com:8008/udp/239.254.2.225:1234
-#EXTINF:-1 group-title="Adultos",Private
+#EXTINF:-1,Private
 http://streamer.sibinet.com:8008/udp/239.254.2.231:1234
-#EXTINF:-1 group-title="Adultos",Hustler HD
+#EXTINF:-1,Hustler HD
 http://streamer.sibinet.com:8008/udp/239.254.2.232:1234
-#EXTINF:-1 group-title="Adultos",******* TV
+#EXTINF:-1,******* TV
 http://streamer.sibinet.com:8008/udp/239.254.2.242:1234
-#EXTINF:-1 group-title="Adultos",CandyMan
+#EXTINF:-1,CandyMan
 http://streamer.sibinet.com:8008/udp/239.254.2.251:1234
-#EXTİNF:-1 group-title="Adultos",Vıp
-http://pro.darking.cloudns.pro:8000/live/urfalikorkmaz/4195y7a8/32.ts
-#EXTİNF:-1 group-title="Adultos",Vıp 2
-http://pro.darking.cloudns.pro:8000/live/urfalikorkmaz/4195y7a8/33.ts
-#EXTİNF:-1 group-title="Adultos",Vıp 3
-http://pro.darking.cloudns.pro:8000/live/urfalikorkmaz/4195y7a8/34.ts
-#EXTİNF:-1 group-title="Adultos",Hustler HD
-http://pro.darking.cloudns.pro:8000/live/urfalikorkmaz/4195y7a8/64.ts
-#EXTİNF:-1 group-title="Adultos",Brazzers
-http://MIKUSA1111@server9.balkantvmedia.com:8080/XXX1?u=user810:p=TJn0JSyI
+#EXTINF:-1,PRIVATE
+http://178.33.126.213:1935/leved/privateCom/.m3u8#EXTINF:-1,Playboy TV
+http://digiteletv.iptvpremium.eu:8000/live/foro-rojadirecta/iptvpremium.eu/376.ts
+#EXTINF:-1,XXX-Taquilla
+http://digiteletv.iptvpremium.eu:8000/live/foro-rojadirecta/iptvpremium.eu/147.ts
+#EXTINF:-1,XXX-Taquilla Hard
+http://digiteletv.iptvpremium.eu:8000/live/foro-rojadirecta/iptvpremium.eu/247.tsts
+#EXTINF:-1,XXX-EXOTICA
+http://digiteletv.iptvpremium.eu:8000/live/foro-rojadirecta/iptvpremium.eu/301.ts
+#EXTINF:-1,XXX-BRAZERS
+http://digiteletv.iptvpremium.eu:8000/live/foro-rojadirecta/iptvpremium.eu/302.ts
+#EXTINF:-1,XXX-SCT HQ
+http://digiteletv.iptvpremium.eu:8000/live/foro-rojadirecta/iptvpremium.eu/292.ts
+#EXTINF:-1,XXX-SCT 6
+http://digiteletv.iptvpremium.eu:8000/live/foro-rojadirecta/iptvpremium.eu/294.ts
+#EXTINF:-1,XXX-SCT 7
+http://digiteletv.iptvpremium.eu:8000/live/foro-rojadirecta/iptvpremium.eu/293.ts

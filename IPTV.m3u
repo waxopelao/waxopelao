@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,XXXHD 1 tv
-http://188.165.220.116:8081/live/52/playlist.m3u8
-#EXTINF:-1,XXXHD 2 tv
-http://188.165.220.116:8081/live2/27/playlist.m3u8
 #EXTINF:-1,x
 http://streamer.sibinet.com:8008/udp/239.254.2.37:1234
 #EXTİNF:-1,XXL
@@ -19,10 +15,6 @@ http://streamer.sibinet.com:8008/udp/239.254.2.225:1234
 http://streamer.sibinet.com:8008/udp/239.254.2.231:1234
 #EXTINF:-1,Hustler HD
 http://streamer.sibinet.com:8008/udp/239.254.2.232:1234
-#EXTINF:-1,******* TV
-http://streamer.sibinet.com:8008/udp/239.254.2.242:1234
-#EXTINF:-1,CandyMan
-http://streamer.sibinet.com:8008/udp/239.254.2.251:1234
 #EXTINF:-1,PRIVATE
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 #EXTINF:-1,Playboy TV
@@ -41,4 +33,13 @@ http://digiteletv.iptvpremium.eu:8000/live/foro-rojadirecta/iptvpremium.eu/292.t
 http://digiteletv.iptvpremium.eu:8000/live/foro-rojadirecta/iptvpremium.eu/294.ts
 #EXTINF:-1,XXX-SCT 7
 http://digiteletv.iptvpremium.eu:8000/live/foro-rojadirecta/iptvpremium.eu/293.ts
-
+#EXTINF:-1,Adulto Premium TV (18+)
+http://j.mp/T_AdultoPremiumTV_sly?.m3u8
+#EXTINF:-1,Adulto TV (18+)
+http://j.mp/T_AdultoTV_sly?.m3u8
+#EXTINF:0,Diablo X TV 2
+#EXTVLCOPT:http-user-agent=Bic@
+http://185.20.36.231:8080/stream/?channel=diabloxtv2&stream=1mb&sp=nettvplus?u=USER
+#EXTINF:0,Brazzers TV Europe
+#EXTVLCOPT:http-user-agent=Bic@
+http://185.20.36.231:8080/stream/?channel=privatespice&stream=1mb&sp=nettvplus?u=USER

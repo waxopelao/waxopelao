@@ -31,3 +31,25 @@ http://digiteletv.iptvpremium.eu:8000/live/foro-rojadirecta/iptvpremium.eu/293.t
 http://j.mp/T_AdultoPremiumTV_sly?.m3u8
 #EXTINF:-1,Adulto TV (18+)
 http://j.mp/T_AdultoTV_sly?.m3u8
+#EXTINF:-1,Adulto
+http://158.255.6.224:8080/loadchan.php?chan=281&gtoken=8c9f7326770bb525908e17d491673530
+#EXTINF:-1,Adulto 1
+http://158.255.6.224:8080/loadchan.php?chan=184&gtoken=8c9f7326770bb525908e17d491673530
+#EXTINF:-1,Adulto 2
+http://158.255.6.224:8080/loadchan.php?chan=279&gtoken=8c9f7326770bb525908e17d491673530
+#EXTINF:-1,Adulto 3
+http://158.255.6.224:8080/loadchan.php?chan=288&gtoken=8c9f7326770bb525908e17d491673530
+#EXTINF:-1,Adulto 4
+http://158.255.6.224:8080/loadchan.php?chan=290&gtoken=8c9f7326770bb525908e17d491673530
+#EXTINF:-1,Adulto 5
+http://158.255.6.224:8080/loadchan.php?chan=282&gtoken=8c9f7326770bb525908e17d491673530
+#EXTINF:-1,Adulto 6
+http://158.255.6.224:8080/loadchan.php?chan=283&gtoken=8c9f7326770bb525908e17d491673530
+#EXTINF:-1,Adulto 7
+http://158.255.6.224:8080/loadchan.php?chan=296&gtoken=8c9f7326770bb525908e17d491673530
+#EXTINF:-1,Adulto 8
+http://158.255.6.224:8080/loadchan.php?chan=280&gtoken=8c9f7326770bb525908e17d491673530
+#EXTINF:-1,Adulto 9
+http://158.255.6.224:8080/loadchan.php?chan=280&gtoken=8c9f7326770bb525908e17d491673530
+#EXTINF:-1,Adulto 10
+http://158.255.6.224:8080/loadchan.php?chan=294&gtoken=8c9f7326770bb525908e17d491673530

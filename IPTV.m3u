@@ -47,7 +47,6 @@ http://streamer.sibinet.com:8008/udp/239.254.2.231:1234
 http://streamer.sibinet.com:8008/udp/239.254.2.232:1234
 #EXTINF:-1,Playboy TV
 http://streamer.sibinet.com:8008/udp/239.254.2.242:1234
-#EXTINF:-1,
 #EXTINF:-1,bsx24 
 http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
 #EXTİNF:-1,Dorcel

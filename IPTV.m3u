@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,x
-http://streamer.sibinet.com:8008/udp/239.254.2.37:1234
-#EXTİNF:-1,Brazzers TV
-http://178.253.194.68:1935/liveloworigin/brazzers.stream/playlist.m3u8
 #EXTINF:-1,XXL
 http://streamer.sibinet.com:8008/udp/239.254.2.72:1234
 #EXTINF:-1,Private
@@ -13,9 +9,15 @@ http://streamer.sibinet.com:8008/udp/239.254.2.232:1234
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 #EXTINF:-1,RU +18
 http://streamer.sibinet.com:8008/udp/239.254.2.37:1234
-#EXTINF:-1,FrenchLover TV
-http://streamer.sibinet.com:8008/udp/239.254.2.50:1234
 #EXTINF:-1,Playboy TV
 http://streamer.sibinet.com:8008/udp/239.254.2.242:1234
-#EXTINF:-1,bsx24 
-http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
+#EXTINF:-1,1
+http://nebo.ddns.net:8881/VSxEA672DFFA.php?id=294
+#EXTINF:-1,2
+http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive1/smil:tvmia-arg-vodlive1.smil/playlist.m3u8
+#EXTINF:-1,3
+http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive3/smil:tvmia-arg-vodlive3.smil/playlist.m3u8
+#EXTINF:-1,4
+http://encoder.iviplanet.com:1935/playlist?application/TVMIA-ARG-VODLive4.m3u8
+#EXTINF:-1,5
+http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive2/smil:tvmia-arg-vodlive2.smil/playlist.m3u8

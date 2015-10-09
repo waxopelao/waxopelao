@@ -7,21 +7,15 @@ http://streamer.sibinet.com:8008/udp/239.254.2.231:1234
 http://streamer.sibinet.com:8008/udp/239.254.2.232:1234
 #EXTINF:-1,PRIVATE
 http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1,RU +18
-http://streamer.sibinet.com:8008/udp/239.254.2.37:1234
-#EXTINF:-1,Playboy TV
-http://streamer.sibinet.com:8008/udp/239.254.2.242:1234
 #EXTINF:-1,2
 http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive1/smil:tvmia-arg-vodlive1.smil/playlist.m3u8
 #EXTINF:-1,4
 http://encoder.iviplanet.com:1935/playlist?application/TVMIA-ARG-VODLive4.m3u8
-#EXTINF:-1,5
-http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive2/smil:tvmia-arg-vodlive2.smil/playlist.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5242880
+#EXTINF:-1,BRAZZERS TV
 http://178.45.252.30/hls/CH_C04_BRAZZERSTV/playlist.m3u8?version=2&utcstart=1444227788.7190504
-#EXT-X-I-FRAME-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5242880
+#EXTINF:-1,Brazzers
 http://178.45.252.30/hls/CH_C04_BRAZZERSTV/iframes.m3u8?version=2&utcstart=1444227788.7190504
-#EXTİNF:0,HustleR 
+#EXTİNF:-1,HustleR 
 http://iptvlatam.ddns.net:9981/play/stream/channel/9bf0931004281ec8b2fbc3a3a6cd4581?title=Hustler #EXTINF:-1,xxx 1
 http://fango.sytes.net:8000/live/halil/halil/45.m3u8
 #EXTINF:-1,xxx 2

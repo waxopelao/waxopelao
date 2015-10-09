@@ -13,9 +13,46 @@ http://streamer.sibinet.com:8008/udp/239.254.2.37:1234
 http://streamer.sibinet.com:8008/udp/239.254.2.242:1234
 #EXTINF:-1,2
 http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive1/smil:tvmia-arg-vodlive1.smil/playlist.m3u8
-#EXTINF:-1,3
-http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive3/smil:tvmia-arg-vodlive3.smil/playlist.m3u8
 #EXTINF:-1,4
 http://encoder.iviplanet.com:1935/playlist?application/TVMIA-ARG-VODLive4.m3u8
 #EXTINF:-1,5
 http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive2/smil:tvmia-arg-vodlive2.smil/playlist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5242880
+http://178.45.252.30/hls/CH_C04_BRAZZERSTV/playlist.m3u8?version=2&utcstart=1444227788.7190504
+#EXT-X-I-FRAME-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5242880
+http://178.45.252.30/hls/CH_C04_BRAZZERSTV/iframes.m3u8?version=2&utcstart=1444227788.7190504
+#EXTİNF:0,HustleR 
+http://iptvlatam.ddns.net:9981/play/stream/channel/9bf0931004281ec8b2fbc3a3a6cd4581?title=Hustler #EXTINF:-1,xxx 1
+http://fango.sytes.net:8000/live/halil/halil/45.m3u8
+#EXTINF:-1,xxx 2
+http://fango.sytes.net:8000/live/halil/halil/46.m3u8
+#EXTINF:-1,xxx 3
+http://fango.sytes.net:8000/live/halil/halil/121.m3u8
+#EXTINF:-1,XXX 1
+http://bstream.universostream.org:8000/live/scipioni/dfg4589/897.m3u8
+#EXTINF:-1,XXX 2
+http://bstream.universostream.org:8000/live/scipioni/dfg4589/898.m3u8
+#EXTINF:-1,XXX 3
+,http://bstream.universostream.org:8000/live/scipioni/dfg4589/899.m3u8
+#EXTINF:-1,XXX 4
+http://bstream.universostream.org:8000/live/scipioni/dfg4589/906.m3u8
+#EXTINF:-1,XXX 5
+http://bstream.universostream.org:8000/live/scipioni/dfg4589/907.m3u8
+#EXTINF:-1,XXX 6
+http://bstream.universostream.org:8000/live/scipioni/dfg4589/904.m3u8
+#EXTINF:-1,XXX 7
+http://bstream.universostream.org:8000/live/scipioni/dfg4589/911.m3u8
+#EXTINF:-1,XXX 8
+http://bstream.universostream.org:8000/live/scipioni/dfg4589/1055.m3u8
+#EXTINF:-1,XXX 9
+http://bstream.universostream.org:8000/live/scipioni/dfg4589/915.m3u8
+#EXTINF:-1,XXX 10
+http://bstream.universostream.org:8000/live/scipioni/dfg4589/922.m3u8
+#EXTINF:-1,XXX 11
+http://bstream.universostream.org:8000/live/scipioni/dfg4589/1051.m3u8
+#EXTINF:-1,XXX 12
+http://bstream.universostream.org:8000/live/scipioni/dfg4589/1052.m3u8
+#EXTINF:-1,XXX 13
+http://bstream.universostream.org:8000/live/scipioni/dfg4589/1053.m3u8
+#EXTINF:-1,XXX 14
+http://bstream.universostream.org:8000/live/scipioni/dfg4589/1054.m3u8

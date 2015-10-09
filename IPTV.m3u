@@ -13,8 +13,6 @@ http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive1/smil:tvmia-arg-vodlive1.smil/p
 http://encoder.iviplanet.com:1935/playlist?application/TVMIA-ARG-VODLive4.m3u8
 #EXTINF:-1,BRAZZERS TV
 http://178.45.252.30/hls/CH_C04_BRAZZERSTV/playlist.m3u8?version=2&utcstart=1444227788.7190504
-#EXTINF:-1,Brazzers
-http://178.45.252.30/hls/CH_C04_BRAZZERSTV/iframes.m3u8?version=2&utcstart=1444227788.7190504
 #EXTİNF:-1,HustleR 
 http://iptvlatam.ddns.net:9981/play/stream/channel/9bf0931004281ec8b2fbc3a3a6cd4581?title=Hustler 
 #EXTINF:-1,xxx 1

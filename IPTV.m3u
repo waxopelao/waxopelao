@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTİNF:0,  1 
+#EXTİNF:-1,  1 
 http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive1/smil:tvmia-arg-vodlive1.smil/playlist.m3u8
-#EXTİNF:0,  2
+#EXTİNF:-1,  2
 http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive2/smil:tvmia-arg-vodlive2.smil/playlist.m3u8
-#EXTİNF:0,  3
+#EXTİNF:-1,  3
 http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive3/smil:tvmia-arg-vodlive3.smil/playlist.m3u8
-#EXTİNF:0, 4 
+#EXTİNF:-1, 4 
 http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive4/smil:tvmia-arg-vodlive4.smil/playlist.m3u8
-#EXTİNF:0, NEW
+#EXTİNF:-1, NEW
 http://210.200.79.26:1935/live/aracity_m_new/chunklist.m3u8
-#EXTİNF:0,Passie
+#EXTİNF:-1,Passie
 http://q.gs/9830047/sex3todokodi
 #EXTINF:-1,PRIVATE
 http://178.33.126.213:1935/leved/privateCom/.m3u8

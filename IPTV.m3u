@@ -7,12 +7,6 @@ http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive2/smil:tvmia-arg-vodlive2.smil/p
 http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive3/smil:tvmia-arg-vodlive3.smil/playlist.m3u8
 #EXTİNF:0, 4 
 http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive4/smil:tvmia-arg-vodlive4.smil/playlist.m3u8
-#EXTINF:-1,Aracity 01
-http://210.200.79.26:1935/live/aracity01/playlist.m3u8
-#EXTINF:-1,Aracity 02
-http://210.200.79.26:1935/live/aracity02/playlist.m3u8
-#EXTINF:-1,Aracity 03
-http://210.200.79.26:1935/live/aracity03/playlist.m3u8
 #EXTİNF:0, NEW
 http://210.200.79.26:1935/live/aracity_m_new/chunklist.m3u8
 #EXTİNF:0,Passie

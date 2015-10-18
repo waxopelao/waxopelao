@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTİNF:-1, Xxx
+#EXTİNF:0, Xxx
 http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive1/smil:tvmia-arg-vodlive1.smil/playlist.m3u8
-#EXTİNF:-1, XXX1
+#EXTİNF:0, XXX1
 http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive2/smil:tvmia-arg-vodlive2.smil/playlist.m3u8
-#EXTİNF:-1, XXX2
+#EXTİNF:0, XXX2
 http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive3/smil:tvmia-arg-vodlive3.smil/playlist.m3u8
-#EXTİNF:-1, WOW
+#EXTİNF:0, WOW
 http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive4/smil:tvmia-arg-vodlive4.smil/playlist.m3u8
-#EXTİNF:-1,Passie
+#EXTİNF:0,Passie
 http://q.gs/9830047/sex3todokodi
 #EXTINF:-1,PRIVATE
 http://178.33.126.213:1935/leved/privateCom/.m3u8

@@ -14,17 +14,79 @@ http://178.33.126.213:1935/leved/privateCom/.m3u8
 #EXTINF:-1,Brazzers TV Europe
 http://159.255.185.239:5555/udp/231.1.1.193:1234
 #EXTINF:-1,ADULT
-http://selling-team.net:8000/live/alex/alex/1379.ts
+http://selling-team.net:8000/live/alex/alex/1379.m3u8
 #EXTINF:-1,18+: Sexto Senso
-http://selling-team.net:8000/live/alex/alex/6285.ts
+http://selling-team.net:8000/live/alex/alex/6285.m3u8
 #EXTINF:-1,18+: Exotica TV
-http://selling-team.net:8000/live/alex/alex/6283.ts
+http://selling-team.net:8000/live/alex/alex/6283.m3u8
 #EXTINF:-1,18+: Cento x Cento
-http://selling-team.net:8000/live/alex/alex/6282.ts
+http://selling-team.net:8000/live/alex/alex/6282.m3u8
 #EXTINF:-1,18+:  Brazzer
-http://selling-team.net:8000/live/alex/alex/4125.ts
+http://selling-team.net:8000/live/alex/alex/4125.m3u8
 #EXTINF:-1,18+: Platinum
-http://selling-team.net:8000/live/alex/alex/1370.ts
+http://selling-team.net:8000/live/alex/alex/1370.m3u8
+#EXTINF:0, Ask TV
+http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
+#EXTINF:0, BRAZZERS
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF:0, ButGo
+http://edge2.everyon.Tv:1935/etv2sb/phd772/huraivza.m3u8
+#EXTINF:0, CLARO ADULTO
+http://wowza1.videos.movile.com:1935/live/adulto_1.smil/stream.m3u8
+#EXTINF:0, CLARO ADULTO (2)
+http://wowza1.videos.movile.com:8080/live/adulto_1.smil/stream.m3u8
+#EXTINF:0, CLARO ADULTO PREMIUM
+http://wowza1.videos.movile.com:1935/live/adultopremium_1.smil/stream.m3u8
+#EXTINF:0, CLARO ADULTO PREMIUM (2)
+http://wowza1.videos.movile.com:8080/live/adultopremium_1.smil/stream.m3u8
+#EXTINF:0, erotic 1
+http://www.nasatv.eu:80/live?channelId=66&amp;uid=49&amp;deviceUser=alena&amp;devicePass=alena
+#EXTINF:0, erotic 2
+http://www.nasatv.eu:80/live?channelId=67&amp;uid=49&amp;deviceUser=alena&amp;devicePass=alena
+#EXTINF:0, erotic 3
+http://www.nasatv.eu:80/live?channelId=68&amp;uid=49&amp;deviceUser=alena&amp;devicePass=alena
+#EXTINF:0, erotic 4
+http://www.nasatv.eu:80/live?channelId=37&amp;uid=49&amp;deviceUser=alena&amp;devicePass=alena
+#EXTINF:0, Hustler TV
+http://91.213.59.190:8000/239.0.0.199
+#EXTINF:0, Корея 1
+http://edge2.everyon.tv:1935/etv2sb/phd64/huraivza.m3u8
+#EXTINF:0, LiveSex
+http://publish.thewebstream.co:1935/cellcast/encoder21/playlist.m3u8
+#EXTINF:0, Livething Premium
+http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
+#EXTINF:0, Nefertisex 2
+http://46.249.213.93/iPhone/broadcast/hot100-tablet.3gp/hot100-tablet.3gp-mr647k.m3u8<br />
+#EXTINF:0, Nefertisex 3
+http://46.249.213.93/iPhone/broadcast/bollywoodbikini-tablet.3gp/bollywoodbikini-tablet.3gp-mr647k.m3u8
+#EXTINF:0, Nefertisex 4
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+#EXTINF:0, Nefertisex 5
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:0, Nefertisex 6
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+#EXTINF:0, Nefertisex 10
+http://62.210.82.241:8081/sexzonehd/sexzonehd/live.m3u8
+#EXTINF:0, Nuart-TV
+http://91.213.59.190:8000/239.0.1.156
+#EXTINF:0, PASSI XXX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:0, Play
+http://edge2.everyon.Tv:1935/etv2sb/phd769/huraivza.m3u8
+#EXTINF:0, Русская Ночь
+http://91.213.59.190:8000/239.0.0.198
+#EXTINF:0, Redlight HD
+http://91.213.59.190:8000/239.0.1.27
+#EXTINF:0, Sexstation
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+#EXTINF:0, Spice
+http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
+#EXTINF:0, Venus
+http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
+#EXTINF:0, XXX
+http://188.165.220.116:8081/live2/37/playlist.m3u8
+#EXTINF:0, 21 Sextury.com
+http://188.165.220.116:8081/live/62/playlist.m3u8
 #EXTINF:-1,XXX Sweet Love
 http://selling-team.net:8000/movie/alex/alex/3599.mkv
 #EXTINF:-1,XXX Skin Diamon

@@ -3,20 +3,10 @@
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 #EXTINF:0, PASSI XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1,Venus
-http://public.tuiptv.biz/public/PlayList.php?id=2fc613e1-5c2a-4dfa-b942-190cac0aa63c&channel=25
-#EXTINF:-1,Sextreme
-http://public.tuiptv.biz/public/PlayList.php?id=2fc613e1-5c2a-4dfa-b942-190cac0aa63c&channel=26
-#EXTINF:-1,Manhandle XXX
-http://public.tuiptv.biz/public/PlayList.php?id=2fc613e1-5c2a-4dfa-b942-190cac0aa63c&channel=27
-#EXTINF:-1,Playboy TV Latin America
-http://public.tuiptv.biz/public/PlayList.php?id=2fc613e1-5c2a-4dfa-b942-190cac0aa63c&channel=28
-#EXTINF:-1,Real
-http://public.tuiptv.biz/public/PlayList.php?id=2fc613e1-5c2a-4dfa-b942-190cac0aa63c&channel=29
-#EXTINF:-1,Juicy
-http://public.tuiptv.biz/public/PlayList.php?id=2fc613e1-5c2a-4dfa-b942-190cac0aa63c&channel=30
-#EXTINF:-1,Xtsy XXX
-http://public.tuiptv.biz/public/PlayList.php?id=2fc613e1-5c2a-4dfa-b942-190cac0aa63c&channel=31
+#EXTINF:0 ,XXL
+http://94.241.238.161:4022/udp/233.99.61.160:5000
+#EXTINF:0 ,Play Boy
+http://94.241.238.161:4022/udp/233.99.61.246:5000
 
 http://media.pornz.org/videos/5/5/2/6/3/55263ba9a5b7aEmmaBrownAnalteenangelEmma7225508041518171183787_adultmovies_ws.mp4
 

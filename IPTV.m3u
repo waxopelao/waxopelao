@@ -1,6 +1,8 @@
 #EXTM3U
 
-http://mstream.streamlive.to:1935/edge/_definst_/74ttfrujse75w7m/playlist.m3u8?wowzasessionid=1182069977&xs=_we_NzR0dGZydWpzZTc1dzdtfDE0NDk5ODY4MTF8ODEuMTg0LjM2LjI2fDU2NmM2MjNiMjBjNjB8OTM3ZDZlYTM4ZTNhYjNmN2M1MDgzMDM3NDk2NmQxZmMyOWJkMzhiMw..
+http://mstream.streamlive.to:1935/edge/_definst_/74ttfrujse75w7m/playlist.m3u8?wowzasessionid=1182069977&xs=_we_NzR0dGZydWpzZTc1dzdtfDE0NDk5ODY4MTF8ODEuMTg0LjM2LjI2fDU2NmM2MjNiMjBjNjB8OTM3ZDZlYTM4ZTNhYjNmN2M1MDgzMDM3NDk2NmQxZmMyOWJkMzhiMw
+
+http://mstream.streamlive.to:1935/edge/_definst_/74ttfrujse75w7m/playlist.m3u8?
 
 #EXTINF:-1,PRIVATE
 http://178.33.126.213:1935/leved/privateCom/.m3u8

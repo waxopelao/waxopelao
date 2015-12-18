@@ -2,14 +2,24 @@
 
 #EXTINF:-1,PRIVATE
 http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:0, PASSI XXX
+#EXTINF:0,PASSI XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1,Playboy
-http://85.173.213.38:81/udp/224.1.2.179:6000
-#EXTINF:-1,Blue Hustler
-http://85.173.213.38:81/udp/224.1.2.51:6000
-#EXTINF:-1,XXL
-http://85.173.213.38:81/udp/224.1.2.180:6000
+#EXTINF:0, CLUB 1
+http://mainstream.dyndns.tv:8000/live/conny/conny/823.m3u8
+#EXTINF:0, CLUB 2
+http://mainstream.dyndns.tv:8000/live/conny/conny/426.m3u8
+#EXTINF:0, CLUB 3
+http://mainstream.dyndns.tv:8000/live/conny/conny/822.m3u8 
+#EXTINF:0, CLUB 4
+http://mainstream.dyndns.tv:8000/live/conny/conny/821.m3u8
+#EXTINF:0, CLUB 5
+http://mainstream.dyndns.tv:8000/live/conny/conny/824.m3u8
+#EXTINF:0, CLUB 6
+http://mainstream.dyndns.tv:8000/live/conny/conny/430.m3u8
+#EXTINF:0, CLUB 7
+http://mainstream.dyndns.tv:8000/live/conny/conny/825.m3u8
+#EXTINF:0, CLUB 8
+http://mainstream.dyndns.tv:8000/live/conny/conny/826.m3u8
 
 http://media.pornz.org/videos/5/5/2/6/3/55263ba9a5b7aEmmaBrownAnalteenangelEmma7225508041518171183787_adultmovies_ws.mp4
 

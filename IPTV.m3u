@@ -4,10 +4,10 @@
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 #EXTINF:0,PASSI XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTİNF:-1,Xtsy
-http://iptvlatinototal.16mb.com/stalker.php?canal=XTSYLA&cm=1463&f=.m3u8
-#EXTİNF:-1,Juicy
-http://iptvlatinototal.16mb.com/stalker.php?canal=JuicyLA&cm=1023&f=.m3u8
+#EXTINF:0,egoist.tv 
+http://s2.edem.tv/iptv/C3E78FQF6K/526/index.m3u8
+#EXTINF:0,P layboy 
+http://s2.edem.tv/iptv/C3E78FQF6K/527/index.m3u8
 
 #EXTINF:-1,xxx
 http://drainmainvein.com/media/videos/mp4/1736.mp4

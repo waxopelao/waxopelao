@@ -4,14 +4,8 @@
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 #EXTINF:0,PASSI XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1, Hot Club 9 HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2784.ts
 #EXTINF:-1,x: Hot Club 8 HD
 http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2783.ts
-#EXTINF:-1 Club 7 HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2782.ts
-#EXTINF:-1, Club 6 HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2781.ts
 #EXTINF:-1,: Hot Club 5 HD
 http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2780.ts
 #EXTINF:-1,: Hot Club 4 HD

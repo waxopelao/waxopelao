@@ -4,7 +4,11 @@
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 #EXTINF:0,PASSI XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:-1,Hustler HD
+http://46.23.147.146:81/udp/239.1.6.35:1234
+#EXTINF:-1,Hustler TV
+http://46.23.147.146:81/udp/239.1.6.36:1234
 #EXTINF:-1,1
-http://188.165.220.116:8081/live2/52/playlist.m3u8
+http://188.165.220.116:8081/live/80/playlist.m3u8
 #EXTINF:-1,2
-http://188.165.220.116:8081/live/77/playlist.m3u8
+http://188.165.220.116:8081/live2/55/playlist.m3u8

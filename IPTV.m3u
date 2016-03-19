@@ -1,49 +1,23 @@
 #EXTM3U
-#EXTINF:-1,Dorcel tv
-http://151.80.18.181:80/live/comm/comm/4334.ts
-#EXTINF:-1,T Girls TV
-http://151.80.18.181:80/live/comm/comm/4488.ts
-#EXTINF:-1,SCT HD
-http://151.80.18.181:80/live/comm/comm/4490.ts
-#EXTINF:-1,Redlight HD
-http://151.80.18.181:80/live/comm/comm/4485.ts
-#EXTINF:-1,Playboy
-http://151.80.18.181:80/live/comm/comm/4489.ts
-#EXTINF:-1,Pink O TV
-http://151.80.18.181:80/live/comm/comm/4487.ts
-#EXTINF:-1,Hustler HD
-http://151.80.18.181:80/live/comm/comm/4486.ts
-#EXTINF:-1,Hot Club 1 HD
-http://151.80.18.181:80/live/comm/comm/1000.ts
-#EXTINF:-1,Hot Club 2 HD
-http://151.80.18.181:80/live/comm/comm/1020.ts
-#EXTINF:-1,Hot Club 3 HD
-http://151.80.18.181:80/live/comm/comm/1021.ts
-#EXTINF:-1,Hot Club 4 HD
-http://151.80.18.181:80/live/comm/comm/1022.ts
-#EXTINF:-1,Hot Club 5 HD
-http://151.80.18.181:80/live/comm/comm/1120.ts
-#EXTINF:-1,Hot Club 6 HD
-http://151.80.18.181:80/live/comm/comm/1121.ts
-#EXTINF:-1,Hot Club 7 HD
-http://151.80.18.181:80/live/comm/comm/1122.ts
-#EXTINF:-1,Hot Club 8 HD
-http://151.80.18.181:80/live/comm/comm/1573.ts
-#EXTINF:-1,Hot Club 9 HD
-http://151.80.18.181:80/live/comm/comm/2637.ts
-#EXTINF:-1,Hot Club 10 HD
-http://151.80.18.181:80/live/comm/comm/2904.ts
-#EXTINF:-1,Sesto Senso Tv
-http://195.154.157.141:6969/live/borrello/borrello/437.ts
-#EXTINF:-1,SCT HD
-http://195.154.157.141:6969/live/borrello/borrello/439.ts
-#EXTINF:-1,Boy Boy Tv
-http://195.154.157.141:6969/live/borrello/borrello/436.ts
-#EXTINF:-1,PINK O TV
-http://195.154.157.141:6969/live/borrello/borrello/433.ts
-#EXTINF:-1,EXOTICA TV
-http://195.154.157.141:6969/live/borrello/borrello/434.ts
-#EXTINF:-1,CentoXCento
-http://195.154.157.141:6969/live/borrello/borrello/435.ts
-#EXTINF:-1,TGirlstv
-http://195.154.157.141:6969/live/borrello/borrello/1248.ts
+#EXTINF:-1,PLAY BOY TV
+http://178.167.48.0:7777/udp/234.5.2.247:1234
+#EXTINF:-1,BRAZZERS TV EUROPE
+http://178.167.48.0:7777/udp/234.5.2.248:1234
+#EXTINF:-1,Russian night
+http://178.167.48.0:7777/udp/234.5.2.249:1234
+#EXTINF:-1,XXL
+http://178.167.48.0:7781/udp/234.5.2.246:1234
+#EXTINF:-1,Russian night
+http://37.235.190.168:81/udp/225.50.70.3:1234
+#EXTINF:-1,CANDY TV
+http://37.235.190.168:81/udp/225.50.70.1:1234
+#EXTINF:-1,Frenchlover
+http://37.235.190.168:81/udp/225.50.70.7:1234
+#EXTINF:-1,FREEX TV
+http://37.235.190.168:81/udp/225.50.70.8:1234
+#EXTINF:-1,Penthouse HD 
+http://195.228.11.89:4080/udp/225.255.255.75:10000
+#EXTINF:-1,SuperOne
+http://78.108.245.78:5555/udp/239.100.1.13:1234
+#EXTINF:-1,Brazzers TV Europe
+http://178.46.154.106:8000/play/a00h

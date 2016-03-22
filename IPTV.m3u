@@ -1,6 +1,16 @@
 #EXTM3U
-
-#EXTINF:-1,18+ : VENUS
+L#EXTINF:-1,
+        Русская ночь
+        http://37.235.165.245:81/udp/225.50.70.3:1234
+        #EXTINF:-1,
+        CANDY TV
+        http://37.235.165.245:81/udp/225.50.70.1:1234
+        #EXTINF:-1,
+        Frenchlover
+        http://37.235.165.245:81/udp/225.50.70.7:1234
+        #EXTINF:-1,
+        PRIVATE TV
+        http://37.235.165.245:81/udp/225.50.70.8:1234#EXTINF:-1,18+ : VENUS
 http://selling-team.net:8000/live/P19hnTkybx/IHB0Jt2PCC/6051.ts
 #EXTINF:-1,18+: Tv Girl
 http://selling-team.net:8000/live/P19hnTkybx/IHB0Jt2PCC/6286.ts

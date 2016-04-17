@@ -42,7 +42,7 @@ http://cobra-iptv.noip.me:8000/movie/gothia/gothia/8837.mkv
 http://cobra-iptv.noip.me:8000/movie/gothia/gothia/8836.mkv
 #EXTINF:0,XXX-Apprendiste Infermiere
 http://cobra-iptv.noip.me:8000/movie/gothia/gothia/8839.mkv
-1,SCT
+#EXTINF:1,SCT
 http://94.236.201.98:8080/udp/239.111.21.62:4000
 #EXTINF:-1,18+”,TGirlstv
 http://94.236.201.98:8080/udp/239.111.21.63:4000

@@ -1,285 +1,109 @@
 #EXTM3U8
-#EXTINF:-1,VOD-02
-http://media.tuboitaliano.xxx:81/videos/5/5/7/2/f/5572f86a809c0.mp4
-#EXTINF:-1,VOD-03
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1,VOD-04
-http://media.tuboitaliano.xxx:81/videos/5/6/2/0/2/562024ae52ae4.mp4
-#EXTINF:-1,VOD-05
-http://media.tuboitaliano.xxx:81/videos/5/6/3/7/5/56375d0c81fdb.mp4
-#EXTINF:-1,VOD-06
-http://media.tuboitaliano.xxx:81/videos/5/6/2/f/d/562fd943cc83c.mp4
-#EXTINF:-1,VOD-07
-http://media.tuboitaliano.xxx:81/videos/5/5/8/6/9/55869d0ed868d.mp4
-#EXTINF:-1,VOD-08
-http://media.tuboitaliano.xxx:81/videos/5/6/2/b/d/562bd7b5262d5.mp4
-#EXTINF:-1,VOD-09
-http://media.tuboitaliano.xxx:81/videos/5/6/2/7/7/562777081b8e7.mp4
-#EXTINF:-1,VOD-10
-http://media.tuboitaliano.xxx:81/videos/5/6/3/a/3/563a391e49e4e.mp4
-#EXTINF:-1,VOD-11
-http://media.tuboitaliano.xxx:81/videos/5/6/2/e/d/562ed8ef7b6cd.mp4
-#EXTINF:-1,VOD 59
-http://media.tuboitaliano.xxx:81/videos/5/6/1/d/2/561d234b4d3ad.mp4
-#EXTINF:-1,VOD 60
-http://media.tuboitaliano.xxx:81/videos/5/6/4/8/9/5648923984ced.mp4
-#EXTINF:-1,VOD 61
-http://media.tuboitaliano.xxx:81/videos/5/6/5/1/a/5651aa1a80ecf.mp4
-#EXTINF:-1,VOD 62
-http://media.tuboitaliano.xxx:81/videos/5/5/6/a/2/556a2465e5c2b.mp4
-#EXTINF:-1,VOD 63
-http://media.tuboitaliano.xxx:81/videos/5/5/6/a/c/556acaf32668d.mp4
-#EXTINF:-1,VOD 64
-http://media.tuboitaliano.xxx:81/videos/5/5/8/9/b/5589bd59a6e6e.mp4
-#EXTINF:-1,VOD 65
-http://media.tuboitaliano.xxx:81/videos/5/5/6/a/4/556a44ef99130.mp4
-#EXTINF:-1,VOD 66
-http://media.tuboitaliano.xxx:81/videos/5/6/5/5/9/56559e9aa119e.mp4
-#EXTINF:-1,VOD 67
-http://media.tuboitaliano.xxx:81/videos/5/5/9/4/1/5594130834415.mp4
-#EXTINF:-1,VOD 68
-http://media.tuboitaliano.xxx:81/videos/5/5/9/7/f/5597f049e0408.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/b/f/4/58bf485e5dc05.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/8/d/c/588dc4e1d8598.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/5/b/7/585b7a2f543b1.mp4 
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/2/9/0/58290f6edbfc6.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/2/9/0/58290e9438383.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/2/8/f/5828f666c2f13.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/2/9/0/58290feaab245.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/2/8/f/5828fd5ade95a.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/2/9/3/582932dcadf9b.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/0/7/3/580739b000c99.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/0/7/1/58071ec1bf30f.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/0/7/4/5807409032586.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/0/7/4/58074ae7ee35d.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/0/7/4/58074798c60b0.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/0/7/5/58075436d8120.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/0/7/4/58074c2a81ce7.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/0/7/3/580736353dbd2.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/0/7/6/5807644f5bfd7.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/7/d/9/c/57d9c2ebd1a53.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/7/d/9/b/57d9bcb808ef3.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/7/c/0/3/57c0370e4861b.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/7/c/0/2/57c02c2401a4c.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/7/c/0/2/57c02cce80fc4.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/7/c/0/3/57c033f489cab.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/7/b/3/4/57b34cf66ec63.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/7/7/2/b/5772bdff5a62a.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/7/7/2/d/5772d8bca2374.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/7/7/2/e/5772ed455ac0d.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/7/7/2/8/5772812602d65.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/7/3/9/f/5739fd498a027.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/7/2/3/6/5723658c0d208.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/7/0/1/6/57016793cc276.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/7/0/1/7/570173d9de973.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/6/8/e/b/568eb95e59f89.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/6/7/a/c/567ace92dd29e.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/7/7/3/3/57733b810f22f.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/0/7/5/5807551809490.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/0/7/2/58072eb09f328.mp4
-#EXTINF:-1,FILM/VIDEO VINTAGE ITALIA
-http://tuboitaliano.xxx/media/videos/5/8/0/7/5/580751c28f7e0.mp4
-ttp://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/776.ts
-#EXTINF:-1,18 4K PORN 38
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/2059.ts
-#EXTINF:-1,18 4K PORN 39
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/2058.ts
-#EXTINF:-1,18 4K PORN 40
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/2057.ts
-#EXTINF:-1,18 4K PORN 41
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/2056.ts
-#EXTINF:-1,18 4K PORN 42
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/2055.ts
-#EXTINF:-1,18 4K PORN 43
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/2306.ts
-#EXTINF:-1,18 4K PORN 44
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/2307.ts
-#EXTINF:-1,18 4K PORN 45
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/2308.ts
-#EXTINF:-1,18 4K PORN 46
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/2309.ts
-#EXTINF:-1,18 4K PORN 47
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/2310.ts
-#EXTINF:-1,18 4K PORN 48
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/2311.ts
-#EXTINF:-1,18 4K PORN 13
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/1828.ts
-#EXTINF:-1,18 4K PORN 12
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/1827.ts
-#EXTINF:-1,18 4K PORN 14
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/1830.ts
-#EXTINF:-1,18 4K PORN 31
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/252.ts
-#EXTINF:-1,18 4K PORN 11
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/1826.ts
-#EXTINF:-1,18 4K PORN 27
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/700.ts
-#EXTINF:-1,18 4K PORN 32
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/251.ts
-#EXTINF:-1,18 4K PORN 30
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/290.ts
-#EXTINF:-1,18 4K PORN 28
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/699.ts
-#EXTINF:-1,18 4K PORN 50
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/698.ts
-#EXTINF:-1,18 4K PORN 29
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/697.ts
-#EXTINF:-1,18 4K PORN 21
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/1110.ts
-#EXTINF:-1,18 4K PORN 22
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/1109.ts
-#EXTINF:-1,18 4K PORN 23
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/1108.ts
-#EXTINF:-1,18 4K PORN 24
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/817.ts
-#EXTINF:-1,18 4K PORN 33
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/63.ts
-#EXTINF:-1,18 4K PORN 35
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/54.ts
-#EXTINF:-1,18 4K PORN 34
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/53.ts
-#EXTINF:-1,18 4K PORN 25
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/816.ts
-#EXTINF:-1,18 4K PORN 26
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/815.ts
-#EXTINF:-1,18 4K PORN 36
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/940.ts
-#EXTINF:-1,18 4K PORN 16
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/1121.ts
-#EXTINF:-1,18 4K PORN 17
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/1119.ts
-#EXTINF:-1,18 4K PORN 18
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/1118.ts
-#EXTINF:-1,18 4K PORN 19
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/1117.ts
-#EXTINF:-1,18 4K PORN 20
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/1116.ts
-#EXTINF:-1,18 4K PORN 37
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/1538.ts
-#EXTINF:-1,18 4K PORN 15
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/1829.ts
-#EXTINF:-1,18  XXX 28
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/2479.ts
-#EXTINF:-1,18  4K PORN 2
-http://clientportalpro.com:2500/live/iToMbbZl8j/uaxfKdjzdI/2472.ts
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/776.ts
-#EXTINF:-1,18 4K PORN 38
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/2059.ts
-#EXTINF:-1,18 4K PORN 39
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/2058.ts
-#EXTINF:-1,18 4K PORN 40
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/2057.ts
-#EXTINF:-1,18 4K PORN 41
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/2056.ts
-#EXTINF:-1,18 4K PORN 42
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/2055.ts
-#EXTINF:-1,18 4K PORN 43
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/2306.ts
-#EXTINF:-1,18 4K PORN 44
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/2307.ts
-#EXTINF:-1,18 4K PORN 45
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/2308.ts
-#EXTINF:-1,18 4K PORN 46
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/2309.ts
-#EXTINF:-1,18 4K PORN 47
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/2310.ts
-#EXTINF:-1,18 4K PORN 48
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/2311.ts
-#EXTINF:-1,18 4K PORN 13
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/1828.ts
-#EXTINF:-1,18 4K PORN 12
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/1827.ts
-#EXTINF:-1,18 4K PORN 14
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/1830.ts
-#EXTINF:-1,18 4K PORN 31
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/252.ts
-#EXTINF:-1,18 4K PORN 11
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/1826.ts
-#EXTINF:-1,18 4K PORN 27
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/700.ts
-#EXTINF:-1,18 4K PORN 32
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/251.ts
-#EXTINF:-1,18 4K PORN 30
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/290.ts
-#EXTINF:-1,18 4K PORN 28
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/699.ts
-#EXTINF:-1,18 4K PORN 50
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/698.ts
-#EXTINF:-1,18 4K PORN 29
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/697.ts
-#EXTINF:-1,18 4K PORN 21
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/1110.ts
-#EXTINF:-1,18 4K PORN 22
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/1109.ts
-#EXTINF:-1,18 4K PORN 23
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/1108.ts
-#EXTINF:-1,18 4K PORN 24
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/817.ts
-#EXTINF:-1,18 4K PORN 33
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/63.ts
-#EXTINF:-1,18 4K PORN 35
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/54.ts
-#EXTINF:-1,18 4K PORN 34
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/53.ts
-#EXTINF:-1,18 4K PORN 25
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/816.ts
-#EXTINF:-1,18 4K PORN 26
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/815.ts
-#EXTINF:-1,18 4K PORN 36
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/940.ts
-#EXTINF:-1,18 4K PORN 16
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/1121.ts
-#EXTINF:-1,18 4K PORN 17
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/1119.ts
-#EXTINF:-1,18 4K PORN 18
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/1118.ts
-#EXTINF:-1,18 4K PORN 19
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/1117.ts
-#EXTINF:-1,18 4K PORN 20
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/1116.ts
-#EXTINF:-1,18 4K PORN 37
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/1538.ts
-#EXTINF:-1,18 4K PORN 15
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/1829.ts
-#EXTINF:-1,18  XXX 28
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/2479.ts
-#EXTINF:-1,18  4K PORN 2
-http://link.softiptv.com:2500/live/Cvk9YFfltQ/uYUwTgc54S/2472.ts
+#EXTINF:-1,Passion XXX
+http://37.9.0.201:8888
+#EXTINF:-1,dusk
+http://37.9.0.201:8890
+#EXTINF:-1,ххх
+http://37.9.0.201:8889
+#EXTINF:-1,Cento X Cento 
+http://37.9.0.201:8811
+#EXTINF:-1,XXX: BRAZZERS
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-26-9/IyMsLvL6ip/127.ts
+#EXTINF:-1,XXX: BRAZZERS TV EUROPE
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-26-9/IyMsLvL6ip/128.ts
+#EXTINF:-1,XXX: HUSTLER TV
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-26-9/IyMsLvL6ip/129.ts
+#EXTINF:-1,XXX: HUSTLERXXX
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-26-9/IyMsLvL6ip/130.ts
+#EXTINF:-1,XXX: DORCEL
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-26-9/IyMsLvL6ip/131.ts
+#EXTINF: -1,XXX: BRAZZERS
+http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-26-9/lYi0PJjzin/127.ts
+#EXTINF: -1,XXX: BRAZZERS TV EUROPE
+http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-26-9/lYi0PJjzin/128.ts
+#EXTINF: -1,XXX: HUSTLER TV
+http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-26-9/lYi0PJjzin/129.ts
+#EXTINF: -1,XXX: HUSTLERXXX
+http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-26-9/lYi0PJjzin/130.ts
+#EXTINF: -1,XXX: DORCEL
+http://163.172.217.107:1944/live/WWW.CAFE-TV.CO.UK-26-9/lYi0PJjzin/131.ts
+#EXTINF:-1,ADULT | But Go HD
+http://no1dadicated.tk:8000/live/add/add/27680.ts
+#EXTINF:-1,ADULT | DORCEL HD
+http://no1dadicated.tk:8000/live/add/add/27677.ts
+#EXTINF:-1,ADULT | Girls 4U HD
+http://no1dadicated.tk:8000/live/add/add/27679.ts
+#EXTINF:-1,ADULT | Honey 18 HD
+http://no1dadicated.tk:8000/live/add/add/27678.ts
+#EXTINF:-1,ADULT | Midnight HD
+http://no1dadicated.tk:8000/live/add/add/27676.ts
+#EXTINF:-1,ADULT | Penthouse Asia 18 HD
+http://no1dadicated.tk:8000/live/add/add/27675.ts
+#EXTINF:-1,ADULT | Pink TV HD
+http://no1dadicated.tk:8000/live/add/add/27674.ts
+#EXTINF:-1,ADULT | Playboy TV Chat 1
+http://no1dadicated.tk:8000/live/add/add/27673.ts
+#EXTINF:-1,ADULT | Playboy TV HD 18
+http://no1dadicated.tk:8000/live/add/add/27672.ts
+#EXTINF:-1,ADULT | Playy&gt;19 HD
+http://no1dadicated.tk:8000/live/add/add/27671.ts
+#EXTINF:-1,ADULT | Spice TV HD
+http://no1dadicated.tk:8000/live/add/add/27670.ts
+#EXTINF:-1,ADULT | The O HD
+http://no1dadicated.tk:8000/live/add/add/27669.ts
+#EXTINF:-1,ADULT | Viki Enjoy Premium HD
+http://no1dadicated.tk:8000/live/add/add/27668.ts
+#EXTINF:-1,18 : Hustler TV
+http://no1dadicated.tk:8000/live/add/add/27655.ts
+#EXTINF:-1,18 : Playboy TV EU
+http://no1dadicated.tk:8000/live/add/add/27653.ts
+#EXTINF:-1,18 : REDLIGHT_HD
+http://no1dadicated.tk:8000/live/add/add/27652.ts
+#EXTINF:-1,18 : Russkaya Noch
+http://no1dadicated.tk:8000/live/add/add/27651.ts
+#EXTINF:-1,18 : x1
+http://no1dadicated.tk:8000/live/add/add/27654.ts
+#EXTINF:-1,18 :ANIMAL SEX
+http://no1dadicated.tk:8000/live/add/add/27657.ts
+#EXTINF:-1,18 :DESI
+http://no1dadicated.tk:8000/live/add/add/27656.ts
+#EXTINF:-1,18 :euroxxx
+http://no1dadicated.tk:8000/live/add/add/27663.ts
+#EXTINF:-1,18 :MVH HARD
+http://no1dadicated.tk:8000/live/add/add/27659.ts
+#EXTINF:-1,18 :SCT
+http://no1dadicated.tk:8000/live/add/add/27660.ts
+#EXTINF:-1,18 :Venus HD
+http://no1dadicated.tk:8000/live/add/add/27658.ts
+#EXTINF:-1,18 :xxHOT
+http://no1dadicated.tk:8000/live/add/add/27664.ts
+#EXTINF:-1,18 :xxPASSIE
+http://no1dadicated.tk:8000/live/add/add/27662.ts
+#EXTINF:-1,18 :XXX TV
+http://no1dadicated.tk:8000/live/add/add/27661.ts
+#EXTINF:-1,18:HUSTLER_HD
+http://no1dadicated.tk:8000/live/add/add/27650.ts
+#EXTINF:-1,18:Iskushenie
+http://no1dadicated.tk:8000/live/add/add/27649.ts
+#EXTINF:-1,18:Nochnoy Club
+http://no1dadicated.tk:8000/live/add/add/27648.ts
+#EXTINF:-1,18:PASSIONXX
+http://no1dadicated.tk:8000/live/add/add/27647.ts
+#EXTINF:-1,xxDORCEL
+http://no1dadicated.tk:8000/live/add/add/27665.ts
+#EXTINF:-1,xxEROTIC
+http://no1dadicated.tk:8000/live/add/add/27666.ts
+#EXTINF:-1,xxPRIVATE SPICE
+http://no1dadicated.tk:8000/live/add/add/27667.ts
+#EXTINF:-1,XXX: TeenModels
+http://no1dadicated.tk:8000/live/add/add/27681.ts
+#EXTINF: -1,XXX: BRAZZERS
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-EUFA-3/eMfNQ8kApr/127.ts
+#EXTINF: -1,XXX: BRAZZERS TV EUROPE
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-EUFA-3/eMfNQ8kApr/128.ts
+#EXTINF: -1,XXX: HUSTLER TV
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-EUFA-3/eMfNQ8kApr/129.ts
+#EXTINF: -1,XXX: HUSTLERXXX
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-EUFA-3/eMfNQ8kApr/130.ts
+#EXTINF: -1,XXX: DORCEL
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-EUFA-3/eMfNQ8kApr/131.ts

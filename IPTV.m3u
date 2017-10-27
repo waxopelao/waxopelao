@@ -1,4 +1,15 @@
 #EXTM3U8
+#EXTINF:-1, tvg-logo="sCvUjtl.png" group-title="Canales Chilenos", La Red | HD
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="Bd09LnA.png" group-title="Canales Chilenos", UCV | HD
+http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="f41IHoB.png" group-title="Canales Chilenos", TVN | HD
+http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?
+ 
+#EXTINF:-1, tvg-logo="HN9mYDP.png" group-title="Canales Chilenos", MEGA | HD
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="NACIONALES",CHV 
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_cl_zpsckqtjlod.png" group-title="NACIONALES",Canal 13 

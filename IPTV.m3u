@@ -17,16 +17,8 @@ http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="Dd9PMar.png" group-title="Canales Chilenos", CNN Chile | HD
 http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1,ATRES_SERIES
-http://189.216.247.113/Content/HLS/Live/Channel(ATRES_SERIES)/index.m3u8
-#EXTINF:-1,NICK
-http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
 #EXTINF:-1,GOLDEN
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
-#EXTINF:-1,AMC
-http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
-#EXTINF:-1,TNT
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
 #EXTINF:-1,SPACE
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
 #EXTINF:-1,Canal 5 HD
@@ -37,39 +29,15 @@ http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
 #EXTINF:-1,ESPN2 HD
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,Dusk! 
+http://151.237.78.4:40666/udp/239.1.3.23:4000 
+#EXTINF:-1,SCT 
+http://151.237.78.4:40666/udp/239.1.1.247:4000 
+#EXTINF:-1,***to Senso 
+http://151.237.78.4:40666/udp/239.1.1.249:4000 
+#EXTINF:-1,Cento Cento TV 
+http://151.237.78.4:40666/udp/239.1.1.250:4000 
+#EXTINF:-1,Pinko TV 
+http://151.237.78.4:40666/udp/239.1.1.253:4000 
 #EXTINF:0, YouPorn 24H
 http://iptvnation.com/porn/video.mp4
-#EXTINF:-1,Passion XXX
-http://37.9.0.201:8888
-#EXTINF:-1,dusk
-http://37.9.0.201:8890
-#EXTINF:-1,ххх
-http://37.9.0.201:8889
-#EXTINF:-1,Cento X Cento
-http://37.9.0.201:8811
-#EXTINF:-1,XXX: B HOT HD
-http://158.69.237.83:25461/live/ap/ap/3720.ts
-#EXTINF:-1,XXX: Babes 4
-http://158.69.237.83:25461/live/ap/ap/3725.ts
-#EXTINF:-1,XXX: CANDY
-http://158.69.237.83:25461/live/ap/ap/3709.ts
-#EXTINF:-1,XXX: EROTIC 4
-http://158.69.237.83:25461/live/ap/ap/3724.ts
-#EXTINF:-1,XXX: FAKE TAXI
-http://158.69.237.83:25461/live/ap/ap/3715.ts
-#EXTINF:-1,XXX: Hot Channex
-http://158.69.237.83:25461/live/ap/ap/3704.ts
-#EXTINF:-1,XXX: HUSTLER TV
-http://158.69.237.83:25461/live/ap/ap/3719.ts
-#EXTINF:-1,XXX: HUSTLERXXX
-http://158.69.237.83:25461/live/ap/ap/3718.ts
-#EXTINF:-1,XXX: MOFOS
-http://158.69.237.83:25461/live/ap/ap/3722.ts
-#EXTINF:-1,XXX: PENTHOUSE HD
-http://158.69.237.83:25461/live/ap/ap/3712.ts
-#EXTINF:-1,XXX: Reality Sex
-http://158.69.237.83:25461/live/ap/ap/3708.ts
-#EXTINF:-1,XXX: REDLIGHT HD
-http://158.69.237.83:25461/live/ap/ap/3726.ts
-#EXTINF:-1,XXX: RUSSKAYA NOCH
-http://158.69.237.83:25461/live/ap/ap/3702.ts

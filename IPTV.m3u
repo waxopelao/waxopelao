@@ -13,12 +13,8 @@ http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_c_cl_zpsoueja6s7.png" group-title="NACIONALES", C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
-#EXTINF:-1, tvg-logo="1x7h1ve.png" group-title="Canales Chilenos", UCV Gran Valparaíso | HD
-http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="Dd9PMar.png" group-title="Canales Chilenos", CNN Chile | HD
 http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="XQLIPxl.png" group-title="Canales Argentinos", Telefe | HD
-http://ar.watcha.live/ch6/hi.m3u8|User-agent=iPhone
 #EXTINF:-1,GOLDEN
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
 #EXTINF:-1,SPACE
@@ -37,16 +33,8 @@ http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(04)/index.m3u8
 #EXTINF:-1, ANIME
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTINF:-1,FrenchLover
-http://31.128.148.88:3371/udp/239.1.13.4:1234
 #EXTINF:-1,O-la-la
 http://176.118.14.246:81/udp/239.195.5.33:1234
-#EXTINF:-1,Brazzers TV Europe
-http://89.208.199.198:20000/udp/230.3.4.143:5678
-#EXTINF:-1,Hustler
-http://37.193.187.48:81/udp/239.1.6.36:1234
-#EXTINF:-1,Hustler HD
-http://31.132.208.17:22281/udp/233.166.172.253:1234
 #EXTINF:0, YouPorn 24H
 http://iptvnation.com/porn/video.mp4
 #EXTINF:-1,Roberta gemma Jovan Jordan

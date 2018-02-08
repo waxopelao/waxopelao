@@ -7,69 +7,63 @@ http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?
 #EXTINF:-1, tvg-logo="HN9mYDP.png" group-title="Canales Chilenos", MEGA | HD
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="NACIONALES",CHV 
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_cl_zpsckqtjlod.png" group-title="NACIONALES",Canal 13 
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_c_cl_zpsoueja6s7.png" group-title="NACIONALES", C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 #EXTINF:-1, tvg-logo="Dd9PMar.png" group-title="Canales Chilenos", CNN Chile | HD
 http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1,GOLDEN
-http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
-#EXTINF:-1,SPACE
-http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
-#EXTINF:-1,TNT HD
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
-#EXTINF:-1,Canal 5 HD
-http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Tc_g.jpg" group-title="CULTURA", Travel HD
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-#EXTINF:-1,ESPN HD
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
-#EXTINF:-1,ESPN2 HD
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(04)/index.m3u8
+#EXTINF:-1, MTV Hits
+http://212.200.112.94:8000/play/a01d
+#EXTINF:-1, MTV Europe
+http://212.200.112.94:8000/play/a01h
+#EXTINF:-1, VH1
+http://212.200.112.94:8000/play/a01c
+#EXTINF:-1,LAT | DISCOVERY SCIENCE
+http://144.217.64.126:8080/live/toby1/toby1/35177.ts
+#EXTINF:-1,LAT | E!
+http://144.217.64.126:8080/live/toby1/toby1/35163.ts
+#EXTINF:-1,LAT | FOX FAMILY
+http://144.217.64.126:8080/live/toby1/toby1/35168.ts
+#EXTINF:-1,LAT | FOX LIFE
+http://144.217.64.126:8080/live/toby1/toby1/35161.ts
+#EXTINF:-1,LAT | FOX MOVIES
+http://144.217.64.126:8080/live/toby1/toby1/35162.ts
+#EXTINF:-1,LAT | FX MOVIE
+http://144.217.64.126:8080/live/toby1/toby1/35169.ts
+#EXTINF:-1,LAT | GLITZ
+http://144.217.64.126:8080/live/toby1/toby1/35165.ts
+#EXTINF:-1,LAT | HBO 2
+http://144.217.64.126:8080/live/toby1/toby1/35164.ts
+#EXTINF:-1,LAT | HBO 2 BACKUP
+http://144.217.64.126:8080/live/toby1/toby1/35454.ts
+#EXTINF:-1,LAT | HBO FAMILY
+http://144.217.64.126:8080/live/toby1/toby1/35170.ts
+#EXTINF:-1,LAT | HBO PLUS
+http://144.217.64.126:8080/live/toby1/toby1/35176.ts
+#EXTINF:-1,LAT | HISTORY HD
+http://144.217.64.126:8080/live/toby1/toby1/35171.ts
+#EXTINF:-1,LAT | MTV HD
+http://144.217.64.126:8080/live/toby1/toby1/35172.ts
+#EXTINF:-1,LAT | NAT GEO KIDS
+http://144.217.64.126:8080/live/toby1/toby1/35173.ts
+#EXTINF:-1,LAT | NAT GEO WILD
+http://144.217.64.126:8080/live/toby1/toby1/35174.ts
+#EXTINF:-1,LAT | NICK JR
+http://144.217.64.126:8080/live/toby1/toby1/35167.ts
+#EXTINF:-1,LAT | SIGNATURE
+http://144.217.64.126:8080/live/toby1/toby1/35166.ts
+#EXTINF:-1,LAT | SPACE HD
+http://144.217.64.126:8080/live/toby1/toby1/35175.ts
+#EXTINF:-1,LAT | TOONCAST
+http://144.217.64.126:8080/live/toby1/toby1/35178.ts
+#EXTINF:-1,LAT | UFC NETWORK
+http://144.217.64.126:8080/live/toby1/toby1/35179.ts
 #EXTINF:-1, ANIME
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTINF:-1,Passion XXX
-http://37.9.0.201:8888
 #EXTINF:-1,dusk
 http://37.9.0.201:8890
 #EXTINF:-1,evil angel
 http://37.9.0.201:8889
-#EXTINF:-1,Cento X Cento
-http://37.9.0.201:8811
-#EXTINF:-1,Nuart
-http://78.111.176.132:8080
-#EXTINF:-1,Russian Night
-http://78.111.176.132:8082
-#EXTINF:-1,OLALA 
-http://78.111.176.132:8082 
-#EXTINF:0, YouPorn 24H
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1,Roberta gemma Jovan Jordan
-http://173.212.226.236:8888/movie/XXX/FREEIPTVLIST.COM/581.mp4
-#EXTINF:-1,Roberta Gemma hard Anal
-http://173.212.226.236:8888/movie/XXX/FREEIPTVLIST.COM/583.mkv
-#EXTINF:-1,Roberta gemma Black Cock
-http://173.212.226.236:8888/movie/XXX/FREEIPTVLIST.COM/582.mp4
-#EXTINF:-1,Roberta Gemma Big Cock Anal
-http://173.212.226.236:8888/movie/XXX/FREEIPTVLIST.COM/580.mp4
-#EXTINF:-1,SELEN
-ttp://videopornoitaliano.net/media/videos/5/4/8/e/b/548eb57b50a2b.mp4
-#EXTINF:-1,SIGNORE SC@ND@LOSE DI PROVINCI@
-http://videopornoitaliano.net/media/videos/5/4/a/f/7/54af7b7a48578.mp4
-#EXTINF:-1,Play boy TV +18
-http://e4d3329d.iptvzone.net/iptv/C9NRXV5M46Q3CU/527/index.m3u8
-#EXTINF:-1,Эгоист +18
-http://e4d3329d.iptvzone.net/iptv/C9NRXV5M46Q3CU/526/index.m3u8
-#EXTINF:-1,Русская Ночь +18
-http://e4d3329d.iptvzone.net/iptv/C9NRXV5M46Q3CU/147/index.m3u8
-#EXTINF:-1,Brazzers TV Europe +18
-http://e4d3329d.iptvzone.net/iptv/C9NRXV5M46Q3CU/910/index.m3u8
-#EXTINF:-1,Шалун +18
-http://e4d3329d.iptvzone.net/iptv/C9NRXV5M46Q3CU/922/index.m3u8
-#EXTINF:-1,Candy +18
-http://e4d3329d.iptvzone.net/iptv/C9NRXV5M46Q3CU/923/index.m3u8

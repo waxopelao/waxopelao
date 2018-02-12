@@ -63,248 +63,126 @@ http://144.217.64.126:8080/live/toby1/toby1/35178.ts
 http://144.217.64.126:8080/live/toby1/toby1/35179.ts
 #EXTINF:-1, ANIME
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTM3U
-
 #EXTINF:-1,A24 Argentina
-
 http://185.152.66.150:25461/live/demo/250118/89.ts
-
 #EXTINF:-1,ADN 40
-
 http://185.152.66.150:25461/live/demo/250118/110.ts
-
 #EXTINF:-1,Anime Tv
-
 http://185.152.66.150:25461/live/demo/250118/113.ts
-
 #EXTINF:-1,Azteca 7
-
 http://185.152.66.150:25461/live/demo/250118/91.ts
-
 #EXTINF:-1,Azteca Trece (13)
-
 http://185.152.66.150:25461/live/demo/250118/90.ts
-
 #EXTINF:-1,Canal Antiestres
-
 http://185.152.66.150:25461/live/demo/250118/92.ts
-
 #EXTINF:-1,Canal Once
-
 http://185.152.66.150:25461/live/demo/250118/111.ts
-
 #EXTINF:-1,CBN Español
-
 http://185.152.66.150:25461/live/demo/250118/102.ts
-
 #EXTINF:-1,Chelsea Tv
-
 http://185.152.66.150:25461/live/demo/250118/117.ts
-
 #EXTINF:-1,Cielo Tv
-
 http://185.152.66.150:25461/live/demo/250118/103.ts
-
 #EXTINF:-1,City Radio Tv
-
 http://185.152.66.150:25461/live/demo/250118/106.ts
-
 #EXTINF:-1,Colombia: CANAL TRECE
-
 http://185.152.66.150:25461/live/demo/250118/7.ts
-
 #EXTINF:-1,Colombia: Caracol HD
-
 http://185.152.66.150:25461/live/demo/250118/6.ts
-
 #EXTINF:-1,Cool HD
-
 http://185.152.66.150:25461/live/demo/250118/107.ts
-
 #EXTINF:-1,Deportv
-
 http://185.152.66.150:25461/live/demo/250118/118.ts
-
 #EXTINF:-1,DW Latinoamérica
-
 http://185.152.66.150:25461/live/demo/250118/112.ts
-
 #EXTINF:-1,El Trece (13) Argentina
-
 http://185.152.66.150:25461/live/demo/250118/93.ts
-
 #EXTINF:-1,Enlace
-
 http://185.152.66.150:25461/live/demo/250118/104.ts
-
 #EXTINF:-1,ES : MOVISTAR FORMULA 1
-
 http://185.152.66.150:25461/live/demo/250118/40.ts
-
 #EXTINF:-1,ES : movistar Futbol
-
 http://185.152.66.150:25461/live/demo/250118/39.ts
-
 #EXTINF:-1,ES: BABY TV
-
 http://185.152.66.150:25461/live/demo/250118/66.ts
-
 #EXTINF:-1,ES: Bein Sport HD
-
 http://185.152.66.150:25461/live/demo/250118/49.ts
-
 #EXTINF:-1,ES: Boing
-
 http://185.152.66.150:25461/live/demo/250118/65.ts
-
 #EXTINF:-1,ES: Clan Tve
-
 http://185.152.66.150:25461/live/demo/250118/63.ts
-
 #EXTINF:-1,ES: EUROSPORT 1
-
 http://185.152.66.150:25461/live/demo/250118/44.ts
-
 #EXTINF:-1,ES: HOLLYWOOD HD
-
 http://185.152.66.150:25461/live/demo/250118/22.ts
-
 #EXTINF:-1,ES: Paramount
-
 http://185.152.66.150:25461/live/demo/250118/21.ts
-
 #EXTINF:-1,ES: Real Madrid Channel
-
 http://185.152.66.150:25461/live/demo/250118/38.ts
-
 #EXTINF:-1,ES: SYFY
-
 http://185.152.66.150:25461/live/demo/250118/18.ts
-
 #EXTINF:-1,ES: TNT SPAIN
-
 http://185.152.66.150:25461/live/demo/250118/14.ts
-
 #EXTINF:-1,ES:ANTENA 3 HD
-
 http://185.152.66.150:25461/live/demo/250118/11.ts
-
 #EXTINF:-1,ES:CALLE 13 HD
-
 http://185.152.66.150:25461/live/demo/250118/33.ts
-
 #EXTINF:-1,ES:Canal LIGA HD
-
 http://185.152.66.150:25461/live/demo/250118/41.ts
-
 #EXTINF:-1,Las Estrellas
-
 http://185.152.66.150:25461/live/demo/250118/95.ts
-
 #EXTINF:-1,Latino: A&E HD
-
 http://185.152.66.150:25461/live/demo/250118/36.ts
-
 #EXTINF:-1,Latino: AMC
-
 http://185.152.66.150:25461/live/demo/250118/35.ts
-
 #EXTINF:-1,Latino: Animal Planet
-
 http://185.152.66.150:25461/live/demo/250118/75.ts
-
 #EXTINF:-1,Latino: AXN HD
-
 http://185.152.66.150:25461/live/demo/250118/34.ts
-
 #EXTINF:-1,Latino: BOOMERANG
-
 http://185.152.66.150:25461/live/demo/250118/64.ts
-
 #EXTINF:-1,Latino: Canal 5 Mx
-
 http://185.152.66.150:25461/live/demo/250118/76.ts
-
 #EXTINF:-1,Latino: CARTOON NETWORK
-
 http://185.152.66.150:25461/live/demo/250118/67.ts
-
 #EXTINF:-1,Latino: CDF Premuim
-
 http://185.152.66.150:25461/live/demo/250118/48.ts
-
 #EXTINF:-1,Latino: Cinecanal
-
 http://185.152.66.150:25461/live/demo/250118/31.ts
-
 #EXTINF:-1,Latino: CINEMAX
-
 http://185.152.66.150:25461/live/demo/250118/32.ts
-
 #EXTINF:-1,Latino: CNN en Espagnol
-
 http://185.152.66.150:25461/live/demo/250118/10.ts
-
 #EXTINF:-1,Latino: Comedy Central HD
-
 http://185.152.66.150:25461/live/demo/250118/9.ts
-
 #EXTINF:-1,Latino: De Pelicula HD
-
 http://185.152.66.150:25461/live/demo/250118/30.ts
-
 #EXTINF:-1,Latino: DISCOVERY HOME & HEALTH
-
 http://185.152.66.150:25461/live/demo/250118/3.ts
-
 #EXTINF:-1,Latino: Discovery Channel
-
 http://185.152.66.150:25461/live/demo/250118/71.ts
-
 #EXTINF:-1,Latino: Discovery ID
-
 http://185.152.66.150:25461/live/demo/250118/72.ts
-
 #EXTINF:-1,Latino: Discovery Kids
-
 http://185.152.66.150:25461/live/demo/250118/62.ts
-
 #EXTINF:-1,Latino: DISCOVERY SCIENCE.
-
 http://185.152.66.150:25461/live/demo/250118/70.ts
-
 #EXTINF:-1,Latino: Discovery Turbo
-
 http://185.152.66.150:25461/live/demo/250118/69.ts
-
 #EXTINF:-1,Latino: Disney Channel
-
 http://185.152.66.150:25461/live/demo/250118/61.ts
-
 #EXTINF:-1,Latino: Disney Junior
-
 http://185.152.66.150:25461/live/demo/250118/60.ts
-
 #EXTINF:-1,Latino: Disney XD
-
 http://185.152.66.150:25461/live/demo/250118/59.ts
-
 #EXTINF:-1,Latino: DISTRITO COMEDIA
-
 http://185.152.66.150:25461/live/demo/250118/8.ts
-
 #EXTINF:-1,Latino: E!
-
 http://185.152.66.150:25461/live/demo/250118/5.ts
-
 #EXTINF:-1,Latino: ESPN
-
 http://185.152.66.150:25461/live/demo/250118/47.ts
-
 #EXTINF:-1,Latino: ESPN 2
-
 http://185.152.66.150:25461/live/demo/250118/45.ts
-
 #EXTINF:-1,Latino: ESPN 3
 
 http://185.152.66.150:25461/live/demo/250118/46.ts
@@ -914,3 +792,73 @@ http://185.152.66.150:25461/live/demo/250118/125.ts
 http://37.9.0.201:8890
 #EXTINF:-1,evil angel
 http://37.9.0.201:8889
+#EXTINF:-1,Adult 4K: VOD 1
+http://v.thebestvideocontentever.com/content/videos/000/047/374/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 10
+http://v.thebestvideocontentever.com/content/videos/000/053/443/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 11
+http://v.thebestvideocontentever.com/content/videos/000/053/358/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 12
+http://v.thebestvideocontentever.com/content/videos/000/052/555/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 13
+http://v.thebestvideocontentever.com/content/videos/000/047/489/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 14
+http://v.thebestvideocontentever.com/content/videos/000/053/566/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 15
+http://v.thebestvideocontentever.com/content/videos/000/052/707/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 16
+http://v.thebestvideocontentever.com/content/videos/000/053/592/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 17
+http://v.thebestvideocontentever.com/content/videos/000/052/535/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 18
+http://v.thebestvideocontentever.com/content/videos/000/052/972/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 19
+http://v.thebestvideocontentever.com/content/videos/000/046/475/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 2
+http://v.thebestvideocontentever.com/content/videos/000/053/164/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 20
+http://v.thebestvideocontentever.com/content/videos/000/052/741/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 21
+http://v.thebestvideocontentever.com/content/videos/000/047/467/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 22
+http://v.thebestvideocontentever.com/content/videos/000/047/557/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 23
+http://v.thebestvideocontentever.com/content/videos/000/053/705/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 24
+http://v.thebestvideocontentever.com/content/videos/000/047/599/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 25
+http://v.thebestvideocontentever.com/content/videos/000/047/489/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 26
+http://v.thebestvideocontentever.com/content/videos/000/053/617/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 27
+http://v.thebestvideocontentever.com/content/videos/000/053/006/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 28
+http://v.thebestvideocontentever.com/content/videos/000/052/555/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 29
+http://v.thebestvideocontentever.com/content/videos/000/053/059/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 3
+http://v.thebestvideocontentever.com/content/videos/000/052/333/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 30
+http://v.thebestvideocontentever.com/content/videos/000/053/536/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 31
+http://v.thebestvideocontentever.com/content/videos/000/052/742/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 32
+http://v.thebestvideocontentever.com/content/videos/000/047/595/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 33
+http://v.thebestvideocontentever.com/content/videos/000/052/972/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 34
+http://v.thebestvideocontentever.com/content/videos/000/052/585/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 35
+http://v.thebestvideocontentever.com/content/videos/000/047/543/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 4
+http://v.thebestvideocontentever.com/content/videos/000/047/528/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 5
+http://v.thebestvideocontentever.com/content/videos/000/053/802/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 6
+http://v.thebestvideocontentever.com/content/videos/000/053/057/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 7
+http://v.thebestvideocontentever.com/content/videos/000/053/006/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 8
+http://v.thebestvideocontentever.com/content/videos/000/046/498/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 9
+http://v.thebestvideocontentever.com/content/videos/000/052/946/panda/promo/tiny4k_promo_mp4_712_2500.mp4

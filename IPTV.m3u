@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="sCvUjtl.png" group-title="Canales Chilenos", La Red | HD
-http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="Bd09LnA.png" group-title="Canales Chilenos", UCV | HD
-http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="f41IHoB.png" group-title="Canales Chilenos", TVN | HD
-http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?
-#EXTINF:-1, tvg-logo="HN9mYDP.png" group-title="Canales Chilenos", MEGA | HD
-http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_cl_zpsckqtjlod.png" group-title="NACIONALES",Canal 13 
-http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_c_cl_zpsoueja6s7.png" group-title="NACIONALES", C13 Cable
-http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
-#EXTINF:-1, tvg-logo="Dd9PMar.png" group-title="Canales Chilenos", CNN Chile | HD
-http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Tc_g.jpg" group-title="CULTURA", Travel HD
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:-1,LAT | DISCOVERY SCIENCE
 http://144.217.64.126:8080/live/toby1/toby1/35177.ts
 #EXTINF:-1,LAT | E!
@@ -195,10 +179,6 @@ http://185.152.66.150:25461/live/demo/250118/37.ts
 http://185.152.66.150:25461/live/demo/250118/96.ts
 #EXTINF:-1,Mi Musica HD
 http://185.152.66.150:25461/live/demo/250118/108.ts
-#EXTINF:-1,Mlb USA
-http://185.152.66.150:25461/live/demo/250118/119.ts
-#EXTINF:-1,Movies: La gran apuesta - The Big short 2015
-https://www.vidio.com/videos/1230290/vjs_playlist.m3u8
 #EXTINF:-1,Mtv HD
 http://185.152.66.150:25461/live/demo/250118/109.ts
 #EXTINF:-1,Neox - Spain
@@ -234,8 +214,7 @@ http://185.152.66.150:25461/live/demo/250118/82.ts
 #EXTINF:-1,24 Horas: Juego De Tronos
 http://185.152.66.150:25461/live/demo/250118/126.ts
 #EXTINF:-1,24 Horas: Juegos Mentales
-http://185.152.66.150:25461/live/demo/250118/125.ts#EXTM3U
-#66.150:25461/live/demo/250118/21.ts
+http://185.152.66.150:25461/live/demo/250118/125.ts
 #EXTINF:-1,dusk
 http://37.9.0.201:8890
 #EXTINF:-1,evil angel

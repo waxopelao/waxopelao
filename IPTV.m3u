@@ -1,35 +1,31 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="fKByJrs.png" group-title="Canales Chilenos", -[COLOR red]Canales Chilenos[/COLOR]-
-http://127.0.0.1
-#EXTINF:-1, tvg-logo="sCvUjtl.png" group-title="Canales Chilenos", La Red | HD
-http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
-#EXTINF:-1, tvg-logo="Bd09LnA.png" group-title="Canales Chilenos", UCV | HD
+#EXTINF:-1 La Red | HD
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
+#EXTINF:-1, UCV | HD
 http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="f41IHoB.png" group-title="Canales Chilenos", TVN | HD
+#EXTINF:-1, TVN | HD
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?
-#EXTINF:-1, tvg-logo="HN9mYDP.png" group-title="Canales Chilenos", MEGA | HD
+#EXTINF:-1, MEGA | HD
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
-#EXTINF:-1, tvg-logo="H3cPpIc.png" group-title="Canales Chilenos", CHV | SD
+#EXTINF:-1, CHV | SD
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
-#EXTINF:-1, tvg-logo="HqKYZvm.png" group-title="Canales Chilenos", Canal 13 | SD
+#EXTINF:-1, Canal 13 | SD
 http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
-#EXTINF:-1, tvg-logo="6RSsii5.png" group-title="Canales Chilenos", T13 Movil | SD
+#EXTINF:-1, T13 Movil | SD
 http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
-#EXTINF:-1, tvg-logo="Dd9PMar.png" group-title="Canales Chilenos", CNN Chile | HD
+#EXTINF:-1, CNN Chile | HD
 http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="Dd9PMar.png" group-title="Canales Chilenos", CNN Chile | HD (Mirror USA)
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="D3m8gI2.png" group-title="Canales Chilenos", 24 Horas | SD
+#EXTINF:-1, 24 Horas | SD
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
-#EXTINF:-1, tvg-logo="0kJfD7l.png" group-title="Canales Chilenos", TV Chile | HD
+#EXTINF:-1,TV Chile | HD
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-#EXTINF:-1, tvg-logo="Jy2cSn9.png" group-title="Canales Chilenos", Ahora Noticias Digital | HD
+#EXTINF:-1, Ahora Noticias Digital | HD
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
-#EXTINF:-1, tvg-logo="sEocONH.png" group-title="Canales Chilenos", UCV 3 | HD
+#EXTINF:-1, UCV 3 | HD
 http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="5egLidz.png" group-title="Canales Chilenos", TVN Kids | SD
+#EXTINF:-1, TVN Kids | SD
 http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8
-#EXTINF:-1, tvg-logo="2HGma9m.png" group-title="Canales Chilenos", CDO | SD
+#EXTINF:-1, CDO | SD
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1,LAT | DISCOVERY SCIENCE
 http://144.217.64.126:8080/live/toby1/toby1/35177.ts

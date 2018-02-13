@@ -1,4 +1,36 @@
 #EXTM3U
+#EXTINF:-1, tvg-logo="fKByJrs.png" group-title="Canales Chilenos", -[COLOR red]Canales Chilenos[/COLOR]-
+http://127.0.0.1
+#EXTINF:-1, tvg-logo="sCvUjtl.png" group-title="Canales Chilenos", La Red | HD
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
+#EXTINF:-1, tvg-logo="Bd09LnA.png" group-title="Canales Chilenos", UCV | HD
+http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="f41IHoB.png" group-title="Canales Chilenos", TVN | HD
+http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?
+#EXTINF:-1, tvg-logo="HN9mYDP.png" group-title="Canales Chilenos", MEGA | HD
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+#EXTINF:-1, tvg-logo="H3cPpIc.png" group-title="Canales Chilenos", CHV | SD
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+#EXTINF:-1, tvg-logo="HqKYZvm.png" group-title="Canales Chilenos", Canal 13 | SD
+http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
+#EXTINF:-1, tvg-logo="6RSsii5.png" group-title="Canales Chilenos", T13 Movil | SD
+http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
+#EXTINF:-1, tvg-logo="Dd9PMar.png" group-title="Canales Chilenos", CNN Chile | HD
+http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="Dd9PMar.png" group-title="Canales Chilenos", CNN Chile | HD (Mirror USA)
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="D3m8gI2.png" group-title="Canales Chilenos", 24 Horas | SD
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+#EXTINF:-1, tvg-logo="0kJfD7l.png" group-title="Canales Chilenos", TV Chile | HD
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1, tvg-logo="Jy2cSn9.png" group-title="Canales Chilenos", Ahora Noticias Digital | HD
+http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+#EXTINF:-1, tvg-logo="sEocONH.png" group-title="Canales Chilenos", UCV 3 | HD
+http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="5egLidz.png" group-title="Canales Chilenos", TVN Kids | SD
+http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8
+#EXTINF:-1, tvg-logo="2HGma9m.png" group-title="Canales Chilenos", CDO | SD
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1,LAT | DISCOVERY SCIENCE
 http://144.217.64.126:8080/live/toby1/toby1/35177.ts
 #EXTINF:-1,LAT | E!
@@ -46,73 +78,3 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 http://37.9.0.201:8890
 #EXTINF:-1,evil angel
 http://37.9.0.201:8889
-#EXTINF:-1,Adult 4K: VOD 1
-http://v.thebestvideocontentever.com/content/videos/000/047/374/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 10
-http://v.thebestvideocontentever.com/content/videos/000/053/443/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 11
-http://v.thebestvideocontentever.com/content/videos/000/053/358/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 12
-http://v.thebestvideocontentever.com/content/videos/000/052/555/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 13
-http://v.thebestvideocontentever.com/content/videos/000/047/489/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 14
-http://v.thebestvideocontentever.com/content/videos/000/053/566/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 15
-http://v.thebestvideocontentever.com/content/videos/000/052/707/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 16
-http://v.thebestvideocontentever.com/content/videos/000/053/592/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 17
-http://v.thebestvideocontentever.com/content/videos/000/052/535/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 18
-http://v.thebestvideocontentever.com/content/videos/000/052/972/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 19
-http://v.thebestvideocontentever.com/content/videos/000/046/475/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 2
-http://v.thebestvideocontentever.com/content/videos/000/053/164/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 20
-http://v.thebestvideocontentever.com/content/videos/000/052/741/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 21
-http://v.thebestvideocontentever.com/content/videos/000/047/467/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 22
-http://v.thebestvideocontentever.com/content/videos/000/047/557/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 23
-http://v.thebestvideocontentever.com/content/videos/000/053/705/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 24
-http://v.thebestvideocontentever.com/content/videos/000/047/599/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 25
-http://v.thebestvideocontentever.com/content/videos/000/047/489/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 26
-http://v.thebestvideocontentever.com/content/videos/000/053/617/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 27
-http://v.thebestvideocontentever.com/content/videos/000/053/006/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 28
-http://v.thebestvideocontentever.com/content/videos/000/052/555/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 29
-http://v.thebestvideocontentever.com/content/videos/000/053/059/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 3
-http://v.thebestvideocontentever.com/content/videos/000/052/333/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 30
-http://v.thebestvideocontentever.com/content/videos/000/053/536/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 31
-http://v.thebestvideocontentever.com/content/videos/000/052/742/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 32
-http://v.thebestvideocontentever.com/content/videos/000/047/595/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 33
-http://v.thebestvideocontentever.com/content/videos/000/052/972/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 34
-http://v.thebestvideocontentever.com/content/videos/000/052/585/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 35
-http://v.thebestvideocontentever.com/content/videos/000/047/543/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 4
-http://v.thebestvideocontentever.com/content/videos/000/047/528/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 5
-http://v.thebestvideocontentever.com/content/videos/000/053/802/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 6
-http://v.thebestvideocontentever.com/content/videos/000/053/057/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 7
-http://v.thebestvideocontentever.com/content/videos/000/053/006/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 8
-http://v.thebestvideocontentever.com/content/videos/000/046/498/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-#EXTINF:-1,Adult 4K: VOD 9
-http://v.thebestvideocontentever.com/content/videos/000/052/946/panda/promo/tiny4k_promo_mp4_712_2500.mp4
